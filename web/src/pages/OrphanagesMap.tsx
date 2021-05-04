@@ -1,5 +1,5 @@
 function OrphanagesMap() {
-    retun (
+    return (
         <h1>Hello Fontureb</h1>
     )
 }
