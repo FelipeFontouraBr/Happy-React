@@ -22,7 +22,7 @@ function App() {
         </div>
 
         <a href="" className="enter-app">
-          bottom
+          <span>+</span>
         </a>
       </div>
     </div>
