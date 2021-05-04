@@ -8,7 +8,7 @@ function Routes() {
     return (
         <BrowserRouter>
             <Route path="/" component={Landing}/>
-
+            <Route path="/app" component={OrphanagesMap}/>
         </BrowserRouter>
 
     );
