@@ -4,7 +4,7 @@ import './styles/global.css';
 
 function App() {
   return (
-    <div className="App">
+    <div id="page-landing">
       <h1>Welcome Fontureb</h1>
     </div>
   );
