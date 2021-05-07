@@ -40,6 +40,10 @@ export class createOrphanages1620322187183 implements MigrationInterface {
           type: 'text',         
         },
         {
+          name: 'opening_hours',
+          type: 'varchar'
+        },
+        {
           name: 'open_on_weekends',
           type: 'boolean',
           default: false,         
@@ -54,4 +58,3 @@ export class createOrphanages1620322187183 implements MigrationInterface {
   }
 }
 
-// Parado no 45:34
