@@ -1,4 +1,5 @@
 import { Router } from 'express';
+import multer from 'multer';
 import OrphanagesController from './controllers/OrphanagesController';
 
 const routes = Router();
